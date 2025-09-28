@@ -1,0 +1,9 @@
+# .gitignore for Latex temp files.
+
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# DS_store
+.DS_store
